@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070299251679",
+    "project_id": "alertnet-36777",
+    "storage_bucket": "alertnet-36777.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070299251679:android:fcd8a9a3fdbe4bbf15ba6a",
+        "android_client_info": {
+          "package_name": "com.example.residence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUBN---y7TLpe_JV91Qciwim__wJipNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
